@@ -1,0 +1,12 @@
+Employee Name : 
+Sujay 
+Employee Age : 
+19
+Employee ID : 
+UIDsujay123
+Casual Leaves:
+4
+Medical Leaves:
+6
+Earned Leaves:
+1

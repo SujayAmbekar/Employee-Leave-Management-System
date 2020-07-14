@@ -1,0 +1,12 @@
+Employee Name : 
+Sameer
+Employee Age : 
+24
+Employee ID : 
+UIDsameer123
+Casual Leaves:
+1
+Medical Leaves:
+5
+Earned Leaves:
+2

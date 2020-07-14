@@ -1,0 +1,12 @@
+Employee Name : 
+Samarth
+Employee Age : 
+23
+Employee ID : 
+UIDsamarth123
+Casual Leaves:
+1
+Medical Leaves:
+5
+Earned Leaves:
+1
